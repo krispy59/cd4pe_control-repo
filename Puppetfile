@@ -25,3 +25,4 @@ mod 'puppetlabs-translate', '1.1.0'
 #  branch: 'docs_experiment'
 
 # more modules could be added here
+# more can go here
