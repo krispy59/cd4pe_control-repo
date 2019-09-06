@@ -28,4 +28,3 @@ mod 'puppet-archive', '4.2.0'
 #  branch: 'docs_experiment'
 
 # more modules could be added here
-# more can go here
