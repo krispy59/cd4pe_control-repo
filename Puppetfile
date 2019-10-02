@@ -5,7 +5,7 @@ forge 'https://forge.puppet.com'
 #mod 'puppetlabs/inifile', '3.0.0'
 #mod 'puppetlabs/stdlib',  '6.0.0'
 #mod 'puppetlabs/concat',  '6.0.0'
-mod 'puppetlabs-cd4pe', '1.0.3'
+mod 'puppetlabs-cd4pe', '1.3.0'
 # Requirements for cd4pe
 mod 'puppetlabs-concat', '4.2.1'
 mod 'puppetlabs-hocon', '1.0.1'
