@@ -1,2 +1,11 @@
 ---
-message: "This node is using common data"
+lookup_options:
+  '^cd4pe::root_config::root_password$':
+    convert_to: 'Sensitive'
+  '^cd4pe::root_config::ssl_server_private_key$':
+    convert_to: 'Sensitive'
+
+
+# Continuous Delivery for Puppet Enterprise (CD4PE)
+cd4pe::root_config::root_email: 'krispy@gmail.com'
+cd4pe::root_config::root_password: 'puppetlabs'
