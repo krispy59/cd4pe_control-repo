@@ -1,3 +1,4 @@
+#
 forge 'https://forge.puppet.com'
 
 # Modules from the Puppet Forge
