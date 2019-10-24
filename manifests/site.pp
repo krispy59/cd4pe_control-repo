@@ -27,7 +27,6 @@ File { backup => false }
 node default {
   include nixthing
   # This is where you can declare classes for all nodes.
-  # This is where you can declare classes for all nodes.
   # Example:
   #   class { 'my_class': }
 }
