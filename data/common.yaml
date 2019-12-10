@@ -9,3 +9,4 @@ lookup_options:
 # Continuous Delivery for Puppet Enterprise (CD4PE)
 cd4pe::root_config::root_email: 'krispy17@gmail.com'
 cd4pe::root_config::root_password: 'puppetlabs'
+cd4pe::cd4pe_image: "artifactory.delivery.puppetlabs.net/cd4pe-dev"
