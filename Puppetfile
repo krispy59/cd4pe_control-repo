@@ -17,6 +17,7 @@ mod 'puppetlabs-apt', '6.2.1'
 mod 'puppetlabs-translate', '1.1.0'
 mod 'gabe-ngrok', '1.1.1'
 mod 'puppet-archive', '4.2.0'
+mod 'puppetlabs-puppet_agent'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
