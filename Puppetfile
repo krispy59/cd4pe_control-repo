@@ -31,3 +31,4 @@ mod 'puppetlabs-facts'
 #  branch: 'docs_experiment'
 
 # more modules could be added here
+# more modules could be added here
